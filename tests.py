@@ -9,4 +9,12 @@ class TestTrivia(unittest.TestCase):
     def testReadFile(self):
     	pass
 
+    def testScoreDisplay(self):
+    	pass
+
+    def testContinueGame(self):
+    	pass
+
+    def testNotContinueGame(self):
+    	pass
     
