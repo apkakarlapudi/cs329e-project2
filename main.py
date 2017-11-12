@@ -48,7 +48,7 @@ def Trivia():
 
         print("Would you like to continue playing the game? ")
         response = input("Y for yes, N for no: ")
-        if response == 'N':
+        if response == 'N' or response =='n':
             break
 
     print("")
