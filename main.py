@@ -1,4 +1,4 @@
-def Trivia():
+def main():
 
     #Opens the CSV file and stores it in the array myFile
     myFile = open("trivia.csv","r")
@@ -54,4 +54,4 @@ def Trivia():
     print("")
     print("Thank you for playing the greatest Trivia Game on Earth!")
 
-Trivia()
+main()
