@@ -10,12 +10,11 @@ class TestTrivia(unittest.TestCase):
 		self.assertIsNot(myFile,null)
 
 #	def testReadFile(self):
-#		if data!= null:
-#			return True
+
 
 
 #	def testScoreDisplay(self):
-#		return self.score 
+ 
 
   #  def testContinueGame(self):
    # 	pass
